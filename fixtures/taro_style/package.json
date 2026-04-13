@@ -1,0 +1,6 @@
+{
+  "name": "fixture-taro",
+  "dependencies": {
+    "@tarojs/taro": "3.6.0"
+  }
+}
